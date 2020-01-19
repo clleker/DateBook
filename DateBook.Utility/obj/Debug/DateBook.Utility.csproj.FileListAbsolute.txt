@@ -1,0 +1,6 @@
+C:\Users\celal eker\source\repos\DateBook\DateBook.Utility\bin\Debug\DateBook.Utility.dll
+C:\Users\celal eker\source\repos\DateBook\DateBook.Utility\bin\Debug\DateBook.Utility.pdb
+C:\Users\celal eker\source\repos\DateBook\DateBook.Utility\obj\Debug\DateBook.Utility.csprojAssemblyReference.cache
+C:\Users\celal eker\source\repos\DateBook\DateBook.Utility\obj\Debug\DateBook.Utility.csproj.CoreCompileInputs.cache
+C:\Users\celal eker\source\repos\DateBook\DateBook.Utility\obj\Debug\DateBook.Utility.dll
+C:\Users\celal eker\source\repos\DateBook\DateBook.Utility\obj\Debug\DateBook.Utility.pdb

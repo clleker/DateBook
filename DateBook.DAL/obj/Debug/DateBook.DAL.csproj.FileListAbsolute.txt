@@ -1,0 +1,12 @@
+C:\Users\celal eker\source\repos\DateBook\DateBook.DAL\bin\Debug\DateBook.DAL.dll.config
+C:\Users\celal eker\source\repos\DateBook\DateBook.DAL\bin\Debug\DateBook.DAL.dll
+C:\Users\celal eker\source\repos\DateBook\DateBook.DAL\bin\Debug\DateBook.DAL.pdb
+C:\Users\celal eker\source\repos\DateBook\DateBook.DAL\bin\Debug\EntityFramework.dll
+C:\Users\celal eker\source\repos\DateBook\DateBook.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\celal eker\source\repos\DateBook\DateBook.DAL\bin\Debug\EntityFramework.xml
+C:\Users\celal eker\source\repos\DateBook\DateBook.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\celal eker\source\repos\DateBook\DateBook.DAL\obj\Debug\DateBook.DAL.csprojAssemblyReference.cache
+C:\Users\celal eker\source\repos\DateBook\DateBook.DAL\obj\Debug\DateBook.DAL.csproj.CoreCompileInputs.cache
+C:\Users\celal eker\source\repos\DateBook\DateBook.DAL\obj\Debug\DateBook.DAL.csproj.CopyComplete
+C:\Users\celal eker\source\repos\DateBook\DateBook.DAL\obj\Debug\DateBook.DAL.dll
+C:\Users\celal eker\source\repos\DateBook\DateBook.DAL\obj\Debug\DateBook.DAL.pdb

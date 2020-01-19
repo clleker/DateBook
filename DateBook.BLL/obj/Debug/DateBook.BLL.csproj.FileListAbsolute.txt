@@ -1,0 +1,12 @@
+C:\Users\celal eker\source\repos\DateBook\DateBook.BLL\bin\Debug\DateBook.BLL.dll
+C:\Users\celal eker\source\repos\DateBook\DateBook.BLL\bin\Debug\DateBook.BLL.pdb
+C:\Users\celal eker\source\repos\DateBook\DateBook.BLL\bin\Debug\DateBook.DAL.dll
+C:\Users\celal eker\source\repos\DateBook\DateBook.BLL\bin\Debug\EntityFramework.dll
+C:\Users\celal eker\source\repos\DateBook\DateBook.BLL\bin\Debug\DateBook.DAL.pdb
+C:\Users\celal eker\source\repos\DateBook\DateBook.BLL\bin\Debug\DateBook.DAL.dll.config
+C:\Users\celal eker\source\repos\DateBook\DateBook.BLL\bin\Debug\EntityFramework.xml
+C:\Users\celal eker\source\repos\DateBook\DateBook.BLL\obj\Debug\DateBook.BLL.csprojAssemblyReference.cache
+C:\Users\celal eker\source\repos\DateBook\DateBook.BLL\obj\Debug\DateBook.BLL.csproj.CoreCompileInputs.cache
+C:\Users\celal eker\source\repos\DateBook\DateBook.BLL\obj\Debug\DateBook.BLL.csproj.CopyComplete
+C:\Users\celal eker\source\repos\DateBook\DateBook.BLL\obj\Debug\DateBook.BLL.dll
+C:\Users\celal eker\source\repos\DateBook\DateBook.BLL\obj\Debug\DateBook.BLL.pdb

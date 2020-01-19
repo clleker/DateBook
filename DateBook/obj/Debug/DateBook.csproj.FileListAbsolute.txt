@@ -1,0 +1,17 @@
+C:\Users\celal eker\source\repos\DateBook\DateBook\obj\Debug\DateBook.csprojAssemblyReference.cache
+C:\Users\celal eker\source\repos\DateBook\DateBook\obj\Debug\DateBook.FormUI.Note.resources
+C:\Users\celal eker\source\repos\DateBook\DateBook\obj\Debug\DateBook.Properties.Resources.resources
+C:\Users\celal eker\source\repos\DateBook\DateBook\obj\Debug\DateBook.csproj.GenerateResource.cache
+C:\Users\celal eker\source\repos\DateBook\DateBook\obj\Debug\DateBook.csproj.CoreCompileInputs.cache
+C:\Users\celal eker\source\repos\DateBook\DateBook\bin\Debug\DateBook.exe.config
+C:\Users\celal eker\source\repos\DateBook\DateBook\bin\Debug\DateBook.exe
+C:\Users\celal eker\source\repos\DateBook\DateBook\bin\Debug\DateBook.pdb
+C:\Users\celal eker\source\repos\DateBook\DateBook\bin\Debug\EntityFramework.dll
+C:\Users\celal eker\source\repos\DateBook\DateBook\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\celal eker\source\repos\DateBook\DateBook\bin\Debug\EntityFramework.xml
+C:\Users\celal eker\source\repos\DateBook\DateBook\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\celal eker\source\repos\DateBook\DateBook\obj\Debug\DateBook.csproj.CopyComplete
+C:\Users\celal eker\source\repos\DateBook\DateBook\obj\Debug\DateBook.exe
+C:\Users\celal eker\source\repos\DateBook\DateBook\obj\Debug\DateBook.pdb
+C:\Users\celal eker\source\repos\DateBook\DateBook\bin\Debug\DateBook.Utility.dll
+C:\Users\celal eker\source\repos\DateBook\DateBook\bin\Debug\DateBook.Utility.pdb

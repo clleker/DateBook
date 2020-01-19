@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DateBookDbModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <EntityContainer Name="DateBookDbEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" />
+    <EntitySet Name="Notes" EntityType="DateBookDbModel.Note" />
+    <FunctionImport Name="sp_InsertNote">
+      <Parameter Name="tittle" Mode="In" Type="String" />
+      <Parameter Name="description" Mode="In" Type="String" />
+      <Parameter Name="finishDate" Mode="In" Type="DateTime" />
+      <Parameter Name="paymentAmount" Mode="In" Type="Decimal" />
+    </FunctionImport>
+    <FunctionImport Name="sp_SelectNotes" ReturnType="Collection(DateBookDbModel.sp_SelectNotes_Result)" />
+  </EntityContainer>
+  <EntityType Name="Note">
+    <Key>
+      <PropertyRef Name="NoteID" />
+    </Key>
+    <Property Name="NoteID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Description" Type="String" Nullable="false" MaxLength="500" FixedLength="false" Unicode="true" />
+    <Property Name="FinishDate" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="PaymentAmount" Type="Decimal" Precision="19" Scale="4" />
+    <Property Name="Status" Type="Int32" Nullable="false" />
+    <Property Name="Deleted" Type="Boolean" Nullable="false" />
+    <Property Name="Tittle" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <ComplexType Name="sp_SelectNotes_Result">
+    <Property Type="Int32" Name="NoteID" Nullable="false" />
+    <Property Type="String" Name="Description" Nullable="false" MaxLength="500" />
+    <Property Type="DateTime" Name="FinishDate" Nullable="false" />
+    <Property Type="Decimal" Name="PaymentAmount" Nullable="true" Precision="19" />
+    <Property Type="Int32" Name="Status" Nullable="false" />
+    <Property Type="Boolean" Name="Deleted" Nullable="false" />
+    <Property Type="String" Name="Tittle" Nullable="true" MaxLength="100" />
+  </ComplexType>
+</Schema>
